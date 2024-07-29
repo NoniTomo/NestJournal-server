@@ -1,6 +1,7 @@
 # WebJournal
 
-This is a server application for a web client implementing a personal records management service.
+This is a server application that implements the personal notes management service.
+
 The code of the client part of the application is in the [NestJournal-client](https://github.com/NoniTomo/NestJournal-client) repository.
 
 ## Project Setup
